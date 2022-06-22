@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **sagarsi02/sagarsi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://youtube.com/c/TechnicalFirst)
+
 <h1 align="center">Hi 👋, I'm Sagar Singh</h1>
 <h3 align="center">A passionate Software developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/man-with-laptop-sitting-chair-work-from-home-illustration_8169-305.jpg">
