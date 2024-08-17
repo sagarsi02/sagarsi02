@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter, Django-channel**
 
-- 💬 Ask me about **Java, Python, Django, Django Rest Framework, Flutter, Docker, pHp, JavaScript, Html, Css, Mysql**
+- 💬 Ask me about **Java, Python, Django, Django Rest Framework, Flutter, React, Docker, pHp, JavaScript, Html, Css, Mysql**
 
 - 📫 How to reach me **sagarsingh802183@gmail.com**
 
